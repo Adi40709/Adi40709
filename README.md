@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/aditya-github-hero.gif" width="100%" alt="Aditya Sharma - Full Stack Engineer, AI/LLM, Automation">
+<img src="./github-hero-simple-animation.gif" width="100%" alt="Aditya Sharma - Full Stack Engineer | AI/LLM | Automation">
 
 <br>
 
