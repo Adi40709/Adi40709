@@ -1,250 +1,184 @@
 <div align="center">
 
-<img src="./aditya-github-hero-v2.gif" width="100%" alt="Aditya Sharma — Full Stack Engineer, AI/LLM, Automation">
-
-<br><br>
-
-<a href="https://aditya-sharma.lovable.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=58B7FF" alt="Portfolio">
-</a>
-<a href="https://github.com/Adi40709">
-  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-</a>
+<img src="./assets/hero.gif" width="100%" alt="Aditya Sharma — Full Stack Engineer, AI/LLM, Automation, Cloud">
 
 <br>
 
-<sub>AI systems · automation · distributed backends · production engineering</sub>
+<a href="https://aditya-sharma.lovable.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://github.com/Adi40709">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/aditya-sharma-788b41261/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+AI systems · automation · distributed backends · production engineering
 
 </div>
 
----
-
-## `01` / ENGINEERING PROFILE
-
-> I build full-stack systems where **AI, automation, APIs, queues, and cloud infrastructure** work together as one reliable product.
-
-My engineering focus is on turning ideas into systems that can handle real workloads — asynchronous processing, retries, worker orchestration, validation, observability, and clean service boundaries.
-
-```text
-┌───────────────────────────────────────────────────────────────────────┐
-│                         ENGINEERING LOOP                              │
-│                                                                       │
-│  PRODUCT ──► API ──► QUEUE ──► WORKER ──► AI / TOOLS ──► RESULT     │
-│     │          │        │          │             │             │      │
-│     └──────────┴────────┴──────────┴─────────────┴─────────────┘      │
-│                         OBSERVE • VALIDATE • RECOVER                  │
-└───────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `02` / WHAT I WORK WITH
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### `APPLICATIONS`
+01 — About
 
-**Frontend**
+I build full-stack products where AI, automation, APIs, queues, and cloud infrastructure work together as one reliable system.
 
-`React` · `TypeScript` · `Vite`  
-`Tailwind CSS` · `shadcn/ui`
-
-**Backend**
-
-`Node.js` · `Express.js`  
-`Python` · `FastAPI`
+My engineering focus is on real workloads: asynchronous processing, retries, worker orchestration, validation, observability, and clean service boundaries.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### `AI + DATA`
+02 — Focus
 
-**AI / LLM**
+AI / LLM
+RAG + Agents + MCP
 
-`RAG` · `Embeddings` · `Vector Search`  
-`LLM APIs` · `Agents` · `MCP`
+Backend
+Node.js + Python
 
-**Data**
+Systems
+Queues + Workers + Redis
 
-`PostgreSQL` · `MongoDB` · `Redis`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### `DISTRIBUTED SYSTEMS`
-
-`RabbitMQ` · `Queues` · `Workers`  
-`Retries` · `DLQ` · `Event-driven Architecture`
-
-</td>
-<td valign="top">
-
-### `CLOUD + DELIVERY`
-
-`AWS` · `Docker`  
-`GitHub Actions` · `CI/CD`
+Cloud
+AWS + Docker + CI/CD
 
 </td>
 </tr>
 </table>
 
----
+03 — Engineering Stack
 
-## `03` / SELECTED WORK
+Layer
+
+Stack
+
+Frontend
+
+React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+
+Backend
+
+Node.js · Express.js · Python · FastAPI
+
+AI / LLM
+
+RAG · Embeddings · Vector Search · LLM APIs · Agents · MCP
+
+Data
+
+PostgreSQL · MongoDB · Redis
+
+Messaging
+
+RabbitMQ · Queues · Retries · DLQ · Workers
+
+Cloud / DevOps
+
+AWS · Docker · GitHub Actions · CI/CD
+
+04 — Selected Systems
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### AI Knowledge Platform
+AI Knowledge Platform
 
-**RAG · semantic search · document intelligence**
+RAG · Semantic Search · LLM
 
-A knowledge platform focused on document ingestion, retrieval, embeddings, semantic search, and LLM-powered responses.
+Document ingestion, embeddings, semantic retrieval and LLM-powered answers with asynchronous processing.
 
-**Stack**
-
-`Python` `AI/LLM` `RAG`
-
-→ **[Explore repository](https://github.com/Adi40709/ai-knowledge-platform)**
+Repository →
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### AI Task Manager
+AI Task Manager
 
-**React · TypeScript · AI-assisted workflows**
+React · TypeScript · AI
 
-A modern task-management application built around a clean frontend architecture and AI-assisted productivity workflows.
+Modern task-management product focused on clean frontend architecture and AI-assisted workflows.
 
-**Stack**
-
-`React` `TypeScript` `Vite`
-
-→ **[Explore repository](https://github.com/Adi40709/ai-task-manager)**
+Repository →
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 
-### Developer Portfolio
+Developer Portfolio
 
-**Interactive engineering showcase**
+React · GSAP · Three.js
 
-A visual portfolio focused on interactive UI, motion, WebGL/3D elements, and presenting engineering work as a product experience.
+Interactive portfolio built as a visual engineering showcase.
 
-**Stack**
-
-`React` `TypeScript` `GSAP` `Three.js` `WebGL`
-
-→ **[Explore repository](https://github.com/Adi40709/aditya-portfolio)**
+Repository →
 
 </td>
 </tr>
 </table>
 
----
+05 — Architecture Mindset
 
-## `04` / ARCHITECTURE MINDSET
+<div align="center">
+<img src="./assets/architecture.png" width="100%" alt="Production AI architecture">
+</div>
 
-```text
-                         ┌───────────────────┐
-                         │     AI AGENT      │
-                         └─────────┬─────────┘
-                                   │
-                         ┌─────────▼─────────┐
-                         │   ORCHESTRATOR    │
-                         └─────────┬─────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-        ┌─────▼─────┐        ┌─────▼─────┐        ┌────▼─────┐
-        │    MCP    │        │  WORKERS  │        │  TOOLS   │
-        └─────┬─────┘        └─────┬─────┘        └────┬─────┘
-              │                    │                    │
-              └────────────────────┼────────────────────┘
-                                   │
-                         ┌─────────▼─────────┐
-                         │   REAL SYSTEMS    │
-                         └───────────────────┘
-```
+06 — Current Build Direction
 
-I prefer **controlled AI inside reliable software**, rather than putting an LLM in charge of everything.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-That means:
+Agentic AI
 
-- deterministic validation around AI output
-- queues for long-running work
-- retries and dead-letter handling
-- isolated workers
-- clear service boundaries
-- logs and operational visibility
-- failure paths designed before the happy path
+MCP / tool use
 
----
+Multi-step workflows
 
-## `05` / CURRENT BUILD DIRECTION
+Human-in-the-loop
 
-```text
-                    NOW
-                     │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-   AGENTIC AI       MCP       AUTOMATION
-       │             │             │
-       └─────────────┼─────────────┘
-                     ▼
-              PRODUCTION SYSTEMS
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       EVALUATION  TOOLS    OBSERVABILITY
-```
+AI evaluation
 
-### Exploring
+Controlled execution
 
-`Agentic AI` · `MCP` · `Tool Use` · `AI Evaluation`  
-`Human-in-the-loop` · `Worker Orchestration`  
-`Distributed Systems` · `Production AI`
+</td>
+<td width="50%" valign="top">
 
----
+Distributed Automation
 
-## `06` / ENGINEERING PRINCIPLES
+Event-driven processing
 
-| Principle | Approach |
-|---|---|
-| **Reliability** | Design retries, failure states, and recovery paths early. |
-| **Simplicity** | Don't introduce infrastructure just because it is popular. |
-| **Async first** | Long-running work belongs in queues and workers. |
-| **AI with boundaries** | Give models controlled tools, schemas, and validation. |
-| **Observable systems** | Logs and metrics should explain what went wrong. |
-| **Production mindset** | Local development should have a clear path to deployment. |
+Queue-based workers
 
----
+Retry / DLQ strategies
 
-## `07` / FIND ME
+Observability
+
+Failure recovery
+
+</td>
+</tr>
+</table>
+
+07 — Engineering Rules
+
+Reliability        > flashy demos
+Simple architecture > unnecessary complexity
+Async workflows    > blocking long-running requests
+Validation         > blind AI output
+Controlled tools   > unrestricted agent access
+Production thinking > tutorial thinking
 
 <div align="center">
 
-### BUILD → AUTOMATE → MEASURE → IMPROVE
+BUILD → AUTOMATE → MEASURE → IMPROVE
 
 <br>
 
-<a href="https://aditya-sharma.lovable.app">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=58B7FF">
-</a>
-
-<a href="https://github.com/Adi40709">
-  <img src="https://img.shields.io/badge/EXPLORE_GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-<br><br>
-
-<sub>Designed around systems, not buzzwords.</sub>
+<a href="https://aditya-sharma.lovable.app">Portfolio</a>  ·  <a href="https://github.com/Adi40709">GitHub</a>  ·  <a href="https://www.linkedin.com/in/aditya-sharma-788b41261/">LinkedIn</a>
 
 </div>
